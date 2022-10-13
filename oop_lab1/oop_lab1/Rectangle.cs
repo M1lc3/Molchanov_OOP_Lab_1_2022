@@ -7,7 +7,7 @@ namespace oop_lab1
 {
     public class Rectangle
     {
-        public double sideA, sideB; 
+        private double sideA, sideB; 
 
         public Rectangle()
         {

@@ -12,3 +12,17 @@ C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Ла�
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 1\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.dll
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 1\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.pdb
 C:\!Dizox\Лаби\ЧНУ\2022 рік 1 семестр 2 курсу\ООП\Лаба 1\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\bin\Debug\netcoreapp3.1\oop_lab1.exe
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\bin\Debug\netcoreapp3.1\oop_lab1.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\bin\Debug\netcoreapp3.1\oop_lab1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\bin\Debug\netcoreapp3.1\oop_lab1.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\bin\Debug\netcoreapp3.1\oop_lab1.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\bin\Debug\netcoreapp3.1\oop_lab1.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.dll
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\Molchanov_OOP_Lab_1_2022-main\oop_lab1\oop_lab1\obj\Debug\netcoreapp3.1\oop_lab1.genruntimeconfig.cache
